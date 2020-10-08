@@ -1,0 +1,10 @@
+AX12,ferro da stiro,104,cs,3,24.95
+AZ52,freccette,20,sp,2,12.95
+BA74,pallone,40,sp,1,29.95
+BH22,tritatutto,5,cs,3,24.95
+BT04,forno,11,el,2,149.49
+BZ66,lavatrice,52,el,3,399.99
+CA14,setaccio,78,cs,3,39.99
+CB03,bicicletta,44,sp,1,299.99
+CX11,frullino,142,cs,3,22.95
+CZ81,tavola pesi,68,sp,2,349.95

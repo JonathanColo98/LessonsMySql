@@ -1,0 +1,30 @@
+************************************
+***   Dati per tabella Persone   ***
+************************************
+
+ABC1,Sara,Verdi,1972-05-23,F
+ABC2,Alice,Rossi,1965-02-16,F
+ABC3,Marta,Neri,1953-05-12,F
+ABC4,Filippo,Blu,1950-02-15,M
+XYZ1,Paolo,Rossi,1960-06-12,M
+XYZ2,Marco,Bianchi,1954-04-18,M
+XYZ3,Paola,Blu,1958-03-25,F
+XYZ4,Massimo,Rossi,1966-02-15,M
+
+************************************
+***   Dati per tabella Dottori   ***
+************************************
+
+XYZ2,Medicina generale,3
+ABC2,Pneumologia,4
+
+
+************************************
+***   Dati per tabella Pazienti  ***
+************************************
+
+XYZ1,ABC2
+ABC1,ABC2
+ABC3,XYZ2
+XYZ3,XYZ2
+XYZ4,ABC2

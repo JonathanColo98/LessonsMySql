@@ -1,0 +1,4 @@
+42	Finanza
+128	Risorsa e sviluppo
+\N	Risorse umane
+\N	Vendite
